@@ -1,7 +1,7 @@
 # Visualization and Instruction
 ## Visualization Sample 
 
-![ggplot2](http://d.pr/i/O5pA)
+![ggplot2](http://d.pr/i/O5pA.png)
 ## Instructions to run the application
 
 - Open the global.R, server.R and ui.R files in R Studio
