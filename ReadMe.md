@@ -1,5 +1,5 @@
-# Visualization and Instruction
-## Visualization Sample 
+# Sample and Instruction
+## Visualization Screenshot Sample 
 
 ![googleVis](http://d.pr/i/O5pA.png)
 
