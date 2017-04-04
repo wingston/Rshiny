@@ -1,7 +1,9 @@
 # Visualization and Instruction
 ## Visualization Sample 
 
-![ggplot2](http://d.pr/i/O5pA.png)
+![googleVis](http://d.pr/i/O5pA.png)
+![ggplot2](https://d.pr/CMZ5.png)
+![ggplot2](https://d.pr/SUGz.png)
 ## Instructions to run the application
 
 - Open the global.R, server.R and ui.R files in R Studio
